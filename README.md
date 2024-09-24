@@ -1,9 +1,5 @@
-[![MasterHead](https://media1.tenor.com/m/xU5btYF_rNoAAAAC/bocchi-the-rock-hitori-gotou.gif)]
-
 <h1 align="center">Hi 👋, I'm Alto</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Bocchi 😊" src="https://media1.tenor.com/m/Pq86Q-fKRtwAAAAC/bocchi-the-rock-bocchi.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsaltoo&label=Profile%20views&color=0e75b6&style=flat" alt="itsaltoo" /> </p>
 

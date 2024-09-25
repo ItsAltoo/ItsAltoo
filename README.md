@@ -1,10 +1,10 @@
 <h2 align="center"><b>Welcome To My Profile :D</b></h2>
-
-<br><br>
-
-<p align="left">
-  <img align="right" src="https://i.pinimg.com/originals/5f/08/cc/5f08ccadfab581517f073245adb5f68c.gif" width="250px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsaltoo&show_icons=true&theme=dark&locale=en&layout=compact" alt="itsaltoo" width="230px" /> <br>
+  
+  <br><br><br>
+  
+<p align="center">
+  <img align="center" src="https://i.pinimg.com/originals/5f/08/cc/5f08ccadfab581517f073245adb5f68c.gif"><br><br><br><br><br><br><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsaltoo&show_icons=true&theme=dark&locale=en&layout=compact" alt="itsaltoo" width="280px" /> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsaltoo&theme=dark" alt="itsaltoo" width="350px" /><br> 
   <img src="https://github-readme-stats.vercel.app/api?username=itsaltoo&show_icons=true&theme=dark&locale=en" alt="itsaltoo" width="350px"/> 
 </p>

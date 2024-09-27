@@ -3,7 +3,7 @@
   <br><br><br>
   
 <p align="center">
-  <img align="center" src="https://i.pinimg.com/originals/5f/08/cc/5f08ccadfab581517f073245adb5f68c.gif"><br><br><br><br><br><br><br><br>
+  <img align="center" src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" width="80%"><br><br><br><br><br><br><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsaltoo&show_icons=true&theme=dark&locale=en&layout=compact" alt="itsaltoo" width="280px" /> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsaltoo&theme=dark" alt="itsaltoo" width="350px" /><br> 
   <img src="https://github-readme-stats.vercel.app/api?username=itsaltoo&show_icons=true&theme=dark&locale=en" alt="itsaltoo" width="350px"/> 

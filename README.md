@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=itsaltoo&show_icons=true&theme=dark&locale=en" alt="itsaltoo" width="350px"/>  -->
 
   <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oraclebrain&theme=shadow_blue&layout=compact"width="48%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAltoo&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>
 
   <p align="center">

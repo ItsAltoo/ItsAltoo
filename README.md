@@ -8,41 +8,67 @@
     <img src="./assets/contributions.svg" />
   </a>
 
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsaltoo&show_icons=true&theme=dark&locale=en&layout=compact" alt="itsaltoo" width="280px" /> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsaltoo&theme=dark" alt="itsaltoo" width="350px" /><br> 
-  <img src="https://github-readme-stats.vercel.app/api?username=itsaltoo&show_icons=true&theme=dark&locale=en" alt="itsaltoo" width="350px"/>  -->
-
-  <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAltoo&theme=shadow_blue&layout=compact"width="48%"/> 
-</p>
-
-  <p align="center">
-  <a href="https://github.com/ItsAltoo?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ItsAltoo&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@ItsAltoo's github-readme-stats">
-  </a>
-  <a href="https://github.com/ItsAltoo?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ItsAltoo&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
-  </a>
-</p>
-<br/>
+  <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAltoo&theme=shadow_blue&layout=compact"width="48%"/> 
+  </p>
 </p>
 
 <br/>
-
 <br>
 
-<p align="center"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="55" height="55"/> </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> </a>&nbsp;&nbsp;&nbsp;  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="55" height="55"/> </a>&nbsp;&nbsp;&nbsp; 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a>&nbsp;&nbsp;&nbsp; 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> </a>&nbsp;&nbsp;&nbsp; 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="55" height="55"/> </a>&nbsp;&nbsp;&nbsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp; 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" alt="photoshop" width="55" height="55"/> </a>&nbsp;&nbsp;&nbsp; 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> </a> 
-</p>
 
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsaltoo&label=Profile%20views&color=0e75b6&style=flat" alt="itsaltoo" width="" height="40px"/> </p>
-<br>
+# 💻 Tech Stack:
+
+<table align='center'>
+<tr>
+
+  <td align="center" width="90">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
+  <br>Python
+  </td>
+
+  <td align="center" width="90">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="45" height="45" />
+  <br>Github
+  </td>
+
+  <td align="center" width="90">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
+  <br>JavaScript
+  </td>
+
+  <td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <br>Bootstrap
+  </td>
+
+  <td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=css" />
+  <br>CSS
+  </td>
+
+  <td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <br>HTML
+  </td>
+
+  <td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=ai" />
+  <br>AI
+  </td>
+
+  <td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=ps" />
+  <br>PS
+  </td>
+
+  <td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <br>Figma
+  </td>
+</tr>
+
+</table>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsaltoo&label=Profile%20views&color=0e75b6&style=flat" alt="itsaltoo" width="" height="40px"/></p>
